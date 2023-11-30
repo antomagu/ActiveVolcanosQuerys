@@ -20,7 +20,7 @@ Query Join two tables into one: <br/>
 <img src="https://i.imgur.com/zcFlZF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Last Eruptions Query using CASE: <br/>  
-<img src="https://i.imgur.com/nyzBKyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Number of volcanoes per Country: <br/> 
+<img src="https://i.imgur.com/ifDmdtq.png " height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
