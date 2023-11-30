@@ -12,8 +12,8 @@ Query Using Where: <br/>
 <img src="https://i.imgur.com/nyzBKyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Average: <br/>  
-<img src="https://i.imgur.com/8XWlgKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Query using Join: <br/>  
+<img src="https://i.imgur.com/5GE856W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Case Function:  <br/>  
