@@ -17,7 +17,7 @@ Query Join dates in a single column: <br/>
 <br />
 <br /> 
 Query using Join: <br/>  
-<img src="https://i.imgur.com/GowzSBj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zcFlZF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Last Eruptions Query using CASE: <br/>  
