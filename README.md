@@ -12,8 +12,8 @@ Query Using Where: <br/>
 <img src="https://i.imgur.com/nyzBKyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Query using Concat: <br/>  
-<img src="https://i.imgur.com/5GE856W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Query Join dates in a single column: <br/> 
+<img src="https://i.imgur.com/lPtD84h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
 Query using Join: <br/>  
