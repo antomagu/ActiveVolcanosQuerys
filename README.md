@@ -16,7 +16,7 @@ Query Join dates in a single column: <br/>
 <img src="https://i.imgur.com/lPtD84h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
-Query using Join: <br/>  
+Query Join two tables into one: <br/>  
 <img src="https://i.imgur.com/zcFlZF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
