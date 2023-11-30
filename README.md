@@ -16,8 +16,7 @@ Query using Join: <br/>
 <img src="https://i.imgur.com/5GE856W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Case Function:  <br/>  
-<img src="https://i.imgur.com/5pkUYBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/W4M2yjK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Last Eruptions Query using CASE: <br/>  
