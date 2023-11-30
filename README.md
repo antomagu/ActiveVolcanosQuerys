@@ -1,4 +1,4 @@
-# ActiveVolcanosQuerys
+
 <p align="center">
 Query Join dates in a single column: <br/> 
 <img src="https://i.imgur.com/lPtD84h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
