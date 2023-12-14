@@ -13,7 +13,7 @@ Query using Average: <br/>
 <br />
 <br />
 Query using Case:  <br/>  
-<img src="https://i.imgur.com/8VKK1Jl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DRHD0Nw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Query Using Where: <br/>  
