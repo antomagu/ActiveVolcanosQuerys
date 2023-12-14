@@ -17,7 +17,7 @@ Query using Case:  <br/>
 <br />
 <br />
 Query Using Where: <br/>  
-<img src="https://i.imgur.com/nyzBKyp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/k9lZqyW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Number of volcanoes per Country: <br/> 
