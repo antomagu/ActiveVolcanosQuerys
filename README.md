@@ -9,7 +9,7 @@ Query Join two tables into one: <br/>
 <br />
 <br />
 Query using Average: <br/>  
-<img src="https://i.imgur.com/8XWlgKV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iBgvdxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Query using Case:  <br/>  
