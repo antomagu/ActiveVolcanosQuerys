@@ -5,7 +5,7 @@ Query Join dates in a single column: <br/>
 <br />
 <br />  
 Query Join two tables into one: <br/>  
-<img src="https://i.imgur.com/zcFlZF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5c3Y8pK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Query using Average: <br/>  
